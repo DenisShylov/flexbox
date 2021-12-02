@@ -17,6 +17,7 @@ div.horizontal {
   display: flex;
   height: 50px;
   justify-content: space-around;
+  align-items: center;
 }
 div.vertical {
   display: flex;
