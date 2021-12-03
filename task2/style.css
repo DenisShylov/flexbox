@@ -1,14 +1,13 @@
 .block {
   background-color: coral;
-  margin: 8px;
+  width: 100px;
   height: 100px;
-
   min-width: 100px;
-  flex-direction: column;
 }
 
 div {
   display: flex;
   flex-wrap: wrap;
   flex-grow: 1;
+  margin: 8px;
 }
