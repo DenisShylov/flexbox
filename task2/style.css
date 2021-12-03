@@ -3,11 +3,11 @@
   width: 100px;
   height: 100px;
   min-width: 100px;
+  margin: 8px;
 }
 
-div {
+.container {
   display: flex;
   flex-wrap: wrap;
   flex-grow: 1;
-  margin: 8px;
 }
