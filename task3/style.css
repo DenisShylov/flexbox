@@ -52,7 +52,6 @@
 .list-head {
   display: flex;
   justify-content: center;
-  padding: 16px 0;
 }
 .footer-content {
   margin: auto;
