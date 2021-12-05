@@ -32,7 +32,6 @@
 .news {
   background-color: grey;
   width: 200px;
-  line-height: 40px;
 }
 .content_page {
   display: flex;
@@ -45,7 +44,7 @@
   display: flex;
   flex-direction: column;
   list-style: none;
-
+  line-height: 40px;
   margin: 0;
   padding: 0;
   margin-left: 16px;
@@ -54,6 +53,7 @@
   display: flex;
   justify-content: center;
   margin: 16px 0;
+  line-height: 40px;
 }
 .footer-content {
   margin: auto;
