@@ -32,6 +32,8 @@
 .news {
   background-color: grey;
   width: 200px;
+  display: flex;
+  flex-direction: column;
 }
 .content_page {
   display: flex;
