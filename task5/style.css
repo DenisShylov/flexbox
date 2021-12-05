@@ -1,20 +1,19 @@
 body {
   box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
 }
+
 header {
   display: flex;
+  justify-content: center;
   align-items: center;
 }
 .article {
   background-color: bisque;
   margin: 8px;
   padding: 16px;
-  flex-wrap: 1;
+  flex: 300px;
 }
 .articles-list {
   display: flex;
   flex-wrap: wrap;
-  flex-basis: 300px;
 }
