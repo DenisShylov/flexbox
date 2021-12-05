@@ -58,3 +58,6 @@
 .footer-content {
   margin: auto;
 }
+.news > h2 {
+  margin: 0;
+}
